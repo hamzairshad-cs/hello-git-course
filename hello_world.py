@@ -7,3 +7,7 @@ print("Hello world!")
 =======
 print("Hello World!")
 >>>>>>> origin/main
+print("Hello from feature")
+
+print("Hello from release")
+

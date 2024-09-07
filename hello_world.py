@@ -5,6 +5,7 @@
 print("Hello World!");
 =======
 print("Hello world!")
+<<<<<<< HEAD
 >>>>>>> intermediate/master
 =======
 print("Hello World!")
@@ -17,3 +18,6 @@ print("Hello world!");
 
 
 >>>>>>> origin/main
+=======
+print("Hello once again")
+>>>>>>> intermediate-normal-merge/feature/add-logging

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 print("Hello world!")
 <<<<<<< HEAD
@@ -25,3 +26,7 @@ print("Hello once again")
 =======
 
 >>>>>>> 97dc1fe0460aef0b01bb40e5081ea26838430e0f
+=======
+print("Hello world!")
+print("Hello darkness my old friend")
+>>>>>>> new-remote/master

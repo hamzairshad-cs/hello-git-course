@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 print("Hello World!");
 =======
 print("Hello world!")
@@ -7,3 +8,6 @@ print("Hello world!")
 =======
 print("Hello World!")
 >>>>>>> origin/main
+=======
+print("Hello world!")
+>>>>>>> intermediate-normal-merge/master
